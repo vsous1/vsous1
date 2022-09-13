@@ -1,4 +1,4 @@
-### Olá! Eu sou vsous1 👋
+### Olá! Eu sou o Victor 👋
 
 • 🔭 Hoje trabalho com testes manuais e testes automatizados
 
