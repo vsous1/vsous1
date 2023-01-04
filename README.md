@@ -2,7 +2,7 @@
 
 • 🔭 Hoje trabalho com testes manuais e testes automatizados
 
-• 🌱 Estou aprendendo automação de testes, linguagens: Java, Python, Ruby.
+• 🌱 Estou aprendendo automação de testes, linguagens: Java, Python, Ruby, Javascript utilizando frameworks como Cypress, Selenium e Robot.
 
 • 📫 Contate-me no email: qavictorsousa@gmail.com | Linkedin: https://www.linkedin.com/in/victor-ramires-sousa-b3a777241/
 
