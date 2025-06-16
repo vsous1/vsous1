@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Victor 👋
 
-• 🔭 Hoje trabalho com testes manuais e testes automatizados
+• 🔭 Hoje trabalho com desenvolvimento web
 
-• 🌱 Estou aprendendo automação de testes, linguagens: Java, Python, Ruby, Javascript utilizando frameworks como Cypress, Selenium e Robot.
+• 🌱 Estou aprendendo desonvolvimento web com: HTML, CSS e Javascript utilizando frameworks como React e Node JS.
 
 • 📫 Contate-me no email: qavictorsousa@gmail.com | Linkedin: https://www.linkedin.com/in/victor-ramires-sousa-b3a777241/
 
